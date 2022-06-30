@@ -45,7 +45,7 @@ const Home: NextPage = () => {
             className="text-sm text-black dark:text-white"
           >
 
-            - Alterando esta mesma pagina, faça uma listagem de usuários, consultando a&nbsp;
+            - Alterando esta mesma página, faça uma listagem de usuários, consultando a&nbsp;
 
             <a 
               className="text-blue-500"
